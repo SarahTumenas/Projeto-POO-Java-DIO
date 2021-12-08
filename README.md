@@ -11,7 +11,7 @@ Nesse projeto será colocado em prática os principais pilares  e conceitos do P
 
 - Abstração e encapsulamento;
 - Herança e polimorfismo;
-- Criacção das Classes de domínio;
+- Criação das Classes de domínio;
 - Interligação das Classes de domínio;
 
 #### Importante:  " Paradigma de Programação Orientado a Objetos: é um modelo de desenvolvimento de aplicações, sendo este modelo construído acerca do conceito de objetos. "
