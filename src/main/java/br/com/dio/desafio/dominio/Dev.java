@@ -32,11 +32,11 @@ public class Dev {
 
     public double calcularTotalXp(){
 
-        this.conteudosConcluidos
+        return this.conteudosConcluidos
                 .stream()
                 .mapToDouble(Conteudo::calcularXp)
                 .sum();
-        return calcularTotalXp();
+
 
     }
 
